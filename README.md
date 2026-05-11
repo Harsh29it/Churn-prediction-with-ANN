@@ -1,5 +1,3 @@
-# Churn-prediction-with-ANN
-
 # Customer Churn Prediction using ANN
 
 ## Overview
